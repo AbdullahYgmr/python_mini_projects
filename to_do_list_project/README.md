@@ -1,9 +1,3 @@
-# Python Mini Projects
-
-This repository contains various small Python projects, each designed to help improve programming skills and understand core concepts. 
-
-## Projects in this repository:
-
 ### To-Do List Application
 A simple To-Do List app built using Python and Tkinter. This app allows users to:
 - Add tasks
