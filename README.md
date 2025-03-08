@@ -25,4 +25,4 @@ To start using or contributing to the projects:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-mini-projects.git
+ https://github.com/AbdullahYgmr/python_mini_projects.git
