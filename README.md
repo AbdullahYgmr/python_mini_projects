@@ -5,9 +5,9 @@ This repository is a collection of various small Python projects, aimed at enhan
 ## Projects in this repository
 
 This repository contains mini projects such as:
-- A To-Do List application using Tkinter
+- Basic Python Projects
 - File handling examples
-- Data manipulation projects
+- Data server projects 
 - Game projects
 - And more!
 
